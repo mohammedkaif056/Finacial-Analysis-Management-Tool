@@ -1,9 +1,8 @@
-# Retail Sales Analysis and Forecast using Machine Learning
+# Trojan Horse - Financial Analysis & Management Tool
 
-**Introduction**
+Trojan Horse is an AI-driven solution designed to optimize financial management in high-transaction retail environments like DMart. It addresses key challenges such as scattered sales data, rising inventory costs, and high wastage rates by providing a unified platform for sales, inventory, and profitability analysis.
 
-Retail Sales Forecast employs advanced machine learning techniques, prioritizing careful data preprocessing, feature enhancement, and comprehensive algorithm assessment and selection. The streamlined Streamlit application integrates Exploratory Data Analysis (EDA) to find trends, patterns, and data insights. It offers users interactive tools to explore top-performing stores and departments, conduct insightful feature comparisons, and obtain personalized sales forecasts. With a commitment to delivering actionable insights, the project aims to optimize decision-making processes within the dynamic retail landscape.
-
+The tool integrates demand forecasting, wastage reduction, and financial optimization, offering real-time insights through interactive dashboards. With advanced ML models like Prophet and LSTM, it predicts future sales trends and suggests optimal inventory restocking levels.
 <br />
 
 **Table of Contents**
@@ -126,8 +125,8 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: mdkaifpasha2k@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/Mohammed Kaif Pasha]([https://www.linkedin.com/in/mohammed-kaif-pasha](https://www.linkedin.com/in/mohammed-kaif-pasha-138003255/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
